@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cartao de Visita</string>
+    <string name="nome_text"> João A. Gomes da Silva</string>
+    <string name="profissao_text">Android Developer</string>
+    <string name="telelefone_cel">+55 11 99808-8752</string>
+    <string name="email_text">email:joaogomes.silva@uol.com.br</string>
+
+</resources>
